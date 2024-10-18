@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
 ## String
