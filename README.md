@@ -25,6 +25,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0058-length-of-last-word](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
