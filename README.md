@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0205-isomorphic-strings](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
