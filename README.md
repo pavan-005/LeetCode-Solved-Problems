@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
