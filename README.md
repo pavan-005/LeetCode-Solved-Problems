@@ -65,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0290-word-pattern](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
