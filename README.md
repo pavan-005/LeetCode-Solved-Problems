@@ -82,6 +82,7 @@
 | [0290-word-pattern](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
