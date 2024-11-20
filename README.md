@@ -83,6 +83,7 @@
 | [0383-ransom-note](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
