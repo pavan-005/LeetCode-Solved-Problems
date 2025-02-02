@@ -76,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
@@ -121,6 +122,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
