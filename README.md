@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0290-word-pattern) |
@@ -39,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
