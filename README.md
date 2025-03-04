@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0383-ransom-note) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
