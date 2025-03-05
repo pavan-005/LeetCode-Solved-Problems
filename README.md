@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0202-happy-number) |
 | [2032-largest-odd-number-in-string](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -136,5 +137,6 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/pavan-005/LeetCode-Solved-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
